@@ -30,3 +30,10 @@ A structured operating system for daily productivity, voice interaction, and rea
 - Website: https://mnemosynelabs.ai
 - LinkedIn: https://linkedin.com/in/keremsalman
 - X: https://x.com/KeremSalman
+
+## Public Work
+
+- **Mnemosyne Protocol (GitHub Organization):** https://github.com/Mnemosyne-Protocol
+- **Mnemosyne-Core (Main Repository):** https://github.com/Mnemosyne-Protocol/Mnemosyne-Core
+
+Mnemosyne is my primary public technical focus: a fail-closed governance and admission-control layer for generative AI workflows.
