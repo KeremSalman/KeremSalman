@@ -1,16 +1,32 @@
-## Hi there 👋
+# Kerem Salman
 
-<!--
-**KeremSalman/KeremSalman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder of **Mnemosyne Labs**.
 
-Here are some ideas to get you started:
+I build systems at the intersection of:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AI governance
+- admission control
+- voice-first workflows
+- structured daily operating systems
+
+## Current Focus
+
+### Mnemosyne
+A fail-closed governance and admission-control layer for generative AI workflows.
+
+### KS_LIFE_OS
+A structured operating system for daily productivity, voice interaction, and real-world intelligent routines.
+
+## What I care about
+
+- trustworthy AI systems
+- context-aware interfaces
+- structured living
+- high-signal product design
+- systems that work in the real world
+
+## Links
+
+- Website: https://mnemosynelabs.ai
+- LinkedIn: https://linkedin.com/in/keremsalman
+- X: https://x.com/KeremSalman
